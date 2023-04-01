@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-    "image": "/assets/img/1.jpg",
+    "image": "assets/img/1.jpg",
 		"name": "Aarav Gupta",
 		"rating": "10/10",
 		"email": "aaravg@gmail.com",
@@ -13,7 +13,7 @@
 
 	{
 		"id": 2,
-    "image": "/assets/img/2.jpg",
+    "image": "assets/img/2.jpg",
 		"name": "Saanvi Reddy",
 		"rating": "9/10",
 		"email": "saanvir@gmail.com",
@@ -25,7 +25,7 @@
 
 	{
 		"id": 3,
-    "image": "/assets/img/3.jpg",
+    "image": "assets/img/3.jpg",
 		"name": "Arjun Singh",
 		"rating": "6/10",
 		"email": "arjuns@gmail.com",
@@ -37,7 +37,7 @@
 
 	{
 		"id": 4,
-    "image": "/assets/img/4.jpg",
+    "image": "assets/img/4.jpg",
 		"name": "Sia Patel",
 		"rating": "6/10",
 		"email": "siap@gmail.com",
@@ -49,7 +49,7 @@
 
 	{
 		"id": 5,
-    "image": "/assets/img/5.jpg",
+    "image": "assets/img/5.jpg",
 		"name": "Aryan Sharma",
 		"rating": "9/10",
 		"email": "aryans@gmail.com",
@@ -61,7 +61,7 @@
 
 	{
 		"id": 6,
-    "image": "/assets/img/6.jpg",
+    "image": "assets/img/6.jpg",
 		"name": "Anika Desai",
 		"rating": "4/10",
 		"email": "anikad@gmail.com",
@@ -73,7 +73,7 @@
 
 	{
 		"id": 7,
-    "image": "/assets/img/7.jpg",
+    "image": "assets/img/7.jpg",
 		"name": "Kabir Kapoor",
 		"rating": "8/10",
 		"email": "kabirk@gmail.com",
@@ -85,7 +85,7 @@
 
 	{
 		"id": 8,
-    "image": "/assets/img/8.jpg",
+    "image": "assets/img/8.jpg",
 		"name": "Anjali Patel",
 		"rating": "8/10",
 		"email": "anjalip@gmail.com",
@@ -97,7 +97,7 @@
 	
 	{
 		"id": 9,
-    "image": "/assets/img/9.jpg",
+    "image": "assets/img/9.jpg",
 		"name": "Rahul Rao",
 		"rating": "3/10",
 		"email": "rahulr@gmail.com",
@@ -109,7 +109,7 @@
 
 	{
     "id": 10,
-    "image": "/assets/img/10.jpg",
+    "image": "assets/img/10.jpg",
     "name": "Shreya Singh",
     "rating": "7/10",
     "email": "shreyas@gmail.com",
@@ -121,7 +121,7 @@
 
   {
     "id": 11,
-    "image": "/assets/img/11.jpg",
+    "image": "assets/img/11.jpg",
     "name": "Kartik Iyer",
     "rating": "9/10",
     "email": "kartiki@gmail.com",
@@ -133,7 +133,7 @@
 
   {
     "id": 12,
-    "image": "/assets/img/12.jpg",
+    "image": "assets/img/12.jpg",
     "name": "Arun Patel",
     "rating": "5/10",
     "email": "arunp@gmail.com",
@@ -145,7 +145,7 @@
 
   {
     "id": 13,
-    "image": "/assets/img/13.jpg",
+    "image": "assets/img/13.jpg",
     "name": "Sneha Rao",
     "rating": "7/10",
     "email": "snehar@gmail.com",
@@ -157,7 +157,7 @@
 
   {
     "id": 14,
-    "image": "/assets/img/14.jpg",
+    "image": "assets/img/14.jpg",
     "name": "Vishal Nair",
     "rating": "9/10",
     "email": "vishaln@gmail.com",
@@ -169,7 +169,7 @@
 
   {
     "id": 15,
-    "image": "/assets/img/15.jpg",
+    "image": "assets/img/15.jpg",
     "name": "Nisha Sharma",
     "rating": "8/10",
     "email": "nishas@gmail.com",
@@ -181,7 +181,7 @@
 
   {
     "id": 16,
-    "image": "/assets/img/16.jpg",
+    "image": "assets/img/16.jpg",
     "name": "Manish Kapoor",
     "rating": "6/10",
     "email": "manishk@gmail.com",
@@ -193,7 +193,7 @@
 
 	{
 		"id": 17,
-    "image": "/assets/img/17.jpg",
+    "image": "assets/img/17.jpg",
 		"name": "Aditi Gupta",
 		"rating": "7/10",
 		"email": "aditig@gmail.com",
@@ -205,7 +205,7 @@
 
 	{
     "id": 18,
-    "image": "/assets/img/18.jpg",
+    "image": "assets/img/18.jpg",
     "name": "Rajesh Patel",
     "rating": "10/10",
     "email": "rajeshp@gmail.com",
@@ -217,7 +217,7 @@
 
 	{
     "id": 19,
-    "image": "/assets/img/19.jpg",
+    "image": "assets/img/19.jpg",
     "name": "Priya Singh",
     "rating": "6/10",
     "email": "priyasingh@gmail.com",
@@ -229,7 +229,7 @@
 
 	{
     "id": 20,
-    "image": "/assets/img/20.jpg",
+    "image": "assets/img/20.jpg",
     "name": "Amit Sharma",
     "rating": "8/10",
     "email": "amits@gmail.com",
@@ -241,7 +241,7 @@
 
 	{
     "id": 21,
-    "image": "/assets/img/21.jpg",
+    "image": "assets/img/21.jpg",
     "name": "Meera Desai",
     "rating": "7/10",
     "email": "meerad@gmail.com",
@@ -253,7 +253,7 @@
 
 	{
     "id": 22,
-    "image": "/assets/img/22.jpg",
+    "image": "assets/img/22.jpg",
     "name": "Anuj Shah",
     "rating": "8/10",
     "email": "anujs@gmail.com",
@@ -265,7 +265,7 @@
 
 	{
     "id": 23,
-    "image": "/assets/img/23.jpg",
+    "image": "assets/img/23.jpg",
     "name": "Neha Patel",
     "rating": "6/10",
     "email": "nehap@gmail.com",
@@ -277,7 +277,7 @@
 
 	{
     "id": 24,
-    "image": "/assets/img/24.jpg",
+    "image": "assets/img/24.jpg",
     "name": "Sanjay Mehta",
     "rating": "8/10",
     "email": "sanjaym@gmail.com",
@@ -289,7 +289,7 @@
 
   {
     "id": 25,
-    "image": "/assets/img/25.jpg",
+    "image": "assets/img/25.jpg",
     "name": "Praveen Kashyap",
     "rating": "8/10",
     "email": "kashyapraveen@gmail.com",
@@ -301,7 +301,7 @@
 
   {
     "id": 26,
-    "image": "/assets/img/26.jpg",
+    "image": "assets/img/26.jpg",
     "name": "Gaurang Raval",
     "rating": "10/10",
     "email": "ravalgaur95@gmail.com",
@@ -313,7 +313,7 @@
 
   {
     "id": 27,
-    "image": "/assets/img/27.jpg",
+    "image": "assets/img/27.jpg",
     "name": "Sagar Thapa",
     "rating": "2/10",
     "email": "sagarthapa@gmail.com",
@@ -325,7 +325,7 @@
 
   {
     "id": 28,
-    "image": "/assets/img/28.jpg",
+    "image": "assets/img/28.jpg",
     "name": "Santhosh Nair",
     "rating": "7/10",
     "email": "santhoshnair84@gmail.com",
@@ -337,7 +337,7 @@
 
   {
     "id": 29,
-    "image": "/assets/img/29.jpg",
+    "image": "assets/img/29.jpg",
     "name": "Santhosh Nair",
     "rating": "8/10",
     "email": "rahulsharma@gmail.com",
@@ -349,7 +349,7 @@
 
   {
     "id": 30,
-    "image": "/assets/img/30.jpg",
+    "image": "assets/img/30.jpg",
     "name": "Divyesh Bharucha",
     "rating": "8/10",
     "email": "divyesh007@gmail.com",
@@ -361,7 +361,7 @@
 
   {
     "id": 31,
-    "image": "/assets/img/31.jpg",
+    "image": "assets/img/31.jpg",
     "name": "Siddhant Chopra",
     "rating": "8/10",
     "email": "siddhantchopra@gmail.com",
@@ -373,7 +373,7 @@
 
   {
     "id": 32,
-    "image": "/assets/img/32.jpg",
+    "image": "assets/img/32.jpg",
     "name": "Sevanti Mitra",
     "rating": "7/10",
     "email": "sevantimitra@gmail.com",
@@ -385,7 +385,7 @@
 
   {
     "id": 33,
-    "image": "/assets/img/33.jpg",
+    "image": "assets/img/33.jpg",
     "name": "Vineeta Kande",
     "rating": "8/10",
     "email": "sevantimitra@gmail.com",
@@ -397,7 +397,7 @@
 
   {
     "id": 34,
-    "image": "/assets/img/34.jpg",
+    "image": "assets/img/34.jpg",
     "name": "Sanjiv Kasar",
     "rating": "8/10",
     "email": "sanjivkasar@gmail.com",
@@ -409,7 +409,7 @@
 
   {
     "id": 35,
-    "image": "/assets/img/35.jpg",
+    "image": "assets/img/35.jpg",
     "name": "Padmaja Neeraj",
     "rating": "9/10",
     "email": "padmajaneeraj91@gmail.com",
@@ -421,7 +421,7 @@
 
   {
     "id": 36,
-    "image": "/assets/img/36.jpg",
+    "image": "assets/img/36.jpg",
     "name": "Shivendra Kumar",
     "rating": "7/10",
     "email": "shivendrakumar@gmail.com",
@@ -433,7 +433,7 @@
 
   {
     "id": 37,
-    "image": "/assets/img/37.jpg",
+    "image": "assets/img/37.jpg",
     "name": "Aditya Singh",
     "rating": "9/10",
     "email": "aadisingh69@gmail.com",
@@ -445,7 +445,7 @@
 
   {
     "id": 38,
-    "image": "/assets/img/38.jpg",
+    "image": "assets/img/38.jpg",
     "name": "Anamika Chaudhuri",
     "rating": "9/10",
     "email": "anamika007@gmail.com",
@@ -457,7 +457,7 @@
 
   {
     "id": 39,
-    "image": "/assets/img/39.jpg",
+    "image": "assets/img/39.jpg",
     "name": "Ishwar Iyer",
     "rating": "7/10",
     "email": "ishwariyer22@gmail.com",
@@ -469,7 +469,7 @@
 
   {
     "id": 40,
-    "image": "/assets/img/40.jpg",
+    "image": "assets/img/40.jpg",
     "name": "Hitendrasinh Parmar",
     "rating": "9/10",
     "email": "hitendrasinhparmar@gmail.com",
@@ -481,7 +481,7 @@
 
   {
     "id": 41,
-    "image": "/assets/img/41.jpg",
+    "image": "assets/img/41.jpg",
     "name": "Nishant jha",
     "rating": "9/10",
     "email": "nishantjha@gmail.com",
@@ -493,7 +493,7 @@
 
   {
     "id": 42,
-    "image": "/assets/img/42.jpg",
+    "image": "assets/img/42.jpg",
     "name": "Anupkumar Ketkale",
     "rating": "5/10",
     "email": "anupkumarketkale@gmail.com",
@@ -505,7 +505,7 @@
 
   {
     "id": 43,
-    "image": "/assets/img/43.jpg",
+    "image": "assets/img/43.jpg",
     "name": "Markandey Makwana",
     "rating": "8/10",
     "email": "markandeymakwana@gmail.com",
@@ -517,7 +517,7 @@
 
   {
     "id": 44,
-    "image": "/assets/img/44.jpg",
+    "image": "assets/img/44.jpg",
     "name": "Muthukumar P",
     "rating": "9/10",
     "email": "pmuthukumar91@gmail.com",
@@ -529,7 +529,7 @@
 
   {
     "id": 45,
-    "image": "/assets/img/45.jpg",
+    "image": "assets/img/45.jpg",
     "name": "Heer Patel",
     "rating": "7/10",
     "email": "heerpatel@gmail.com",
@@ -541,7 +541,7 @@
 
   {
     "id": 46,
-    "image": "/assets/img/46.jpg",
+    "image": "assets/img/46.jpg",
     "name": "Aradhya Gupta",
     "rating": "2/10",
     "email": "aradhyagupta@gmail.com",
@@ -553,7 +553,7 @@
 
   {
     "id": 47,
-    "image": "/assets/img/47.jpg",
+    "image": "assets/img/47.jpg",
     "name": "Shivam Kharya",
     "rating": "7/10",
     "email": "shivamkharya@gmail.com",
@@ -565,7 +565,7 @@
 
   {
     "id": 48,
-    "image": "/assets/img/48.jpg",
+    "image": "assets/img/48.jpg",
     "name": "Rupali Bishnoi",
     "rating": "8/10",
     "email": "rupalibishnoi@gmail.com",
@@ -577,7 +577,7 @@
 
   {
     "id": 49,
-    "image": "/assets/img/49.jpg",
+    "image": "assets/img/49.jpg",
     "name": "Dhatri K",
     "rating": "8/10",
     "email": "kdhatri@gmail.com",
@@ -589,7 +589,7 @@
 
   {
     "id": 50,
-    "image": "/assets/img/50.jpg",
+    "image": "assets/img/50.jpg",
     "name": "Aditya Iyer",
     "rating": "6/10",
     "email": "adityaiyer@gmail.com",
