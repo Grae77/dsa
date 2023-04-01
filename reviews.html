@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<? lang="en">
+<link>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="assets/css/reviews.css"/>
+
+  <script src="assets/js/api.js" defer></script>
+
+  <title>Reviews</title>
+
+  <link rel="icon" href="assets/img/favicon.png"></link>
+  
+</head>
+<body>
+  <div class="nav-bar">
+    <nav>
+        <h2 class="logo">Menu <span>Fever</span></h2>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+  </div>
+
+  <!-- search bar -->
+  <div class="search-wrapper">
+    <label for="search">Search</label>
+    <input type="search" id="search" data-search>
+  </div>
+
+  <!-- cards container -->
+  <div class="user-cards" data-user-cards-container></div>
+  
+  <!-- card template -->
+  <template data-user-template>
+    <!-- card -->
+    <div class="card">
+      <!-- image -->
+
+      <img src="" alt="" class="image" data-image>
+
+      <div class="restaurant" data-restaurant></div>
+
+      <div class="container">
+        <div class="rating" data-rating></div>
+        <div class="genre" data-genre></div>
+      </div>
+
+      <div class="email" data-email></div>
+
+      <div class="name-container">
+        <div class="name" data-name></div>
+      </div>
+
+      <div class="rev-container">
+        <div class="review" data-review></div>
+      </div>
+        <!-- button -->
+      <!-- <a href="#" class="button">Read More</a> -->
+    </div>
+
+  </template>
+
+</body>
+</html>
