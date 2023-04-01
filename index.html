@@ -9,20 +9,36 @@
     <link rel="icon" href="assets/img/favicon.png"></link>
     <link rel="stylesheet" href="assets/css/index.css"></link>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 </head>
 <body>
     
+  <!-- Nav bar -->
+  <header>
     <div class="nav-bar">
-        <nav>
-            <h2 class="logo">Menu <span>Fever</span></h2>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="reviews.html">Reviews</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
+      <div class="logo"><a href="index.html">Menu <span>Fever</span></a></div>
+      <ul class="links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="reviews.html">Reviews</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+      </ul>
+      <a href="#" class="action-btn">Get Started</a>
+      <div class="toggle-btn">
+        <i class="fa-solid fa-bars"></i>
+      </div>
     </div>
+
+    <!-- Dropdown menu -->
+    <div class="dropdown_menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="reviews.html">Reviews</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#" class="action-btn">Get Started</a></li>
+    </div>
+  </header>
 
     <!-- Main section -->
     <main>
@@ -59,5 +75,7 @@
           </ul>
       </div>
   </footer>
+
+  <script src="assets/js/index.js"></script>
 </body>
 </html>
