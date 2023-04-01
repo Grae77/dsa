@@ -19,7 +19,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("/assets/js/rating.json")
+fetch("assets/js/rating.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
