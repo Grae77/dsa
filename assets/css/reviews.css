@@ -148,6 +148,7 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-shadow:  5px 5px 10px #0d0b10;
 }
 
 .dropdown_menu .action-btn{
@@ -160,7 +161,7 @@ a:hover{
 @media(max-width: 992px){
     .nav-bar .links,
     .nav-bar .action-btn{
-      display: none;
+        display: none;
     }
 
     .nav-bar .toggle-btn{
@@ -192,6 +193,7 @@ a:hover{
     color: #fff;
     margin-bottom: 1.8rem;
     padding-top: 20px;
+    text-shadow:  5px 5px 10px #0d0b10;
 }
 
 input{
@@ -204,6 +206,7 @@ input{
     font-size: 1rem;
     color: #ffffff;
     box-shadow:  23px 23px 53px #0d0b10;
+    text-shadow:  5px 5px 10px #0d0b10;
 }
 
 input:focus-within{
