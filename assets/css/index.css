@@ -141,7 +141,7 @@ a:hover{
 }
 
 .dropdown_menu.open{
-    height: 240px;
+    height: 320px;
 }
 
 .dropdown_menu li{
@@ -149,6 +149,7 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-shadow:  5px 5px 10px #0d0b10;
 }
 
 .dropdown_menu .action-btn{
