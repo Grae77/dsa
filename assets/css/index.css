@@ -9,11 +9,14 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: #fff;
     background: var(--primary-color);
-    height: 100%;
     width: 100%;
-    margin: 0;
     overflow-y: scroll;
     box-sizing: border-box;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0rem;
+    /* overflow: hidden; */
 }
 
 /* scroll bar */
@@ -37,7 +40,7 @@ body::-webkit-scrollbar-track{
 
 header{
     position: relative;
-    padding: 0 2rem;
+    padding: 2rem 2rem;
 }
 
 .nav-bar{
@@ -99,7 +102,7 @@ a{
 }
 
 a:hover{
-  color: #fff;
+  color: var(--tertiary-color);
   transition: .3s;
 }
 
@@ -199,11 +202,29 @@ a:hover{
     letter-spacing: 5px;
 }
 
+
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: clamp(3rem, 10vw, 10rem);
+    color: white;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  }
+  
+  h1:hover {
+    background: linear-gradient(90deg, var(--accent-color), var(--tertiary-color));
+    position: relative;
+  }
+  
+
 p{
     letter-spacing: 2px;  
     font-size: 1.2rem;
     font-weight: 600;
-    padding-bottom: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .btn{
